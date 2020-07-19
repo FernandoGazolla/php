@@ -2,7 +2,7 @@
 
 echo " Aula de PHP <strong> Top</strong>";
 
-eho "teste";
+echo "teste";
 
 echo "Testes de conflitos marge";
 
