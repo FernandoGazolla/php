@@ -1,6 +1,6 @@
 <?php
 
-echo " Hello Word <strong> Top</strong>";
+echo " Aula de PHP <strong> Top</strong>";
 
 ?>
 
